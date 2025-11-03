@@ -1,0 +1,3 @@
+Gaeraes,Sorsyx,Skarmarn,Daljoris,Kalfroth,Thazix,Brelalar,Irynpyros,Aelaris,Naldalar,Felntyr,Krynnnylor,Ylarwyris,Falzion,Tarlgarath,Daljoris,Fenorath,Xilphor,Daryth,Quornarith,Aersarix,Orahxar,Kyzral,Arkloris,Shaelox,Glynnzrak,Tazor,Glynnadir,Nargoril,Sorsin
+
+L19,R16,L28,R42,L17,R12,L31,R21,L10,R43,L30,R28,L45,R9,L43,R26,L30,R18,L18,R20,L5,R29,L5,R37,L5,R12,L5,R11,L5,R31,L5,R5,L5,R36,L5,R40,L5,R31,L5,R14,L23,R16,L45,R26,L47,R11,L22,R49,L31,R36,L44,R21,L20,R20,L32,R22,L9,R14,L11

@@ -1,0 +1,15 @@
+Taloryx,Taladarin,Ryssmarn,Ryssoryx,Ryssadarin,Azoryx,Azadarin,Azmarn,Talmarn
+
+l > o,a,m
+A > z
+i > n
+z > a,b
+a > d,r,b
+d > a
+r > i,y,n
+R > y
+T > a
+o > r
+m > a
+s > s,o,a,m
+y > x,b

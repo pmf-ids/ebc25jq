@@ -1,0 +1,27 @@
+Felnmyr,Felnparth,Selkparth,Felndar,Olarmyr,Felnzal,Paldzral,Kyndar,Olarparth,Kynzral,Krythparth,Fyrfroth,Morndar,Paldparth,Krythmyr,Hazzral,Tazluth,Mornfroth,Mornonar,Tazcyth,Krythluth,Olarluth,Kynoryn,Kyncyth,Felnonar,Felnzral,Hazmyr,Krythdar,Olarcyth,Fyrzal,Selkdar,Felncyth,Kynzal,Fyroryn,Paldluth,Kynfroth,Olarfroth,Mornmyr,Olarzal,Felnfroth,Mornparth,Fyrparth,Hazparth,Selkonar,Hazluth,Krythonar,Hazfroth,Olaroryn,Fyrmyr,Hazoryn,Olaronar,Paldfroth,Felnluth,Tazonar,Selkoryn,Mornluth,Selkluth,Felnoryn,Krythzral,Tazoryn,Olardar,Olarzral,Selkzral,Mornzal,Tazparth,Mornzral,Hazzal,Mornoryn,Kynmyr,Fyronar,Hazcyth,Kynonar,Morncyth,Kynparth,Paldcyth,Fyrdar,Kynluth,Palddar,Tazdar,Selkfroth,Tazzal,Krythzal,Krythcyth,Krythfroth,Krythoryn,Paldmyr,Tazmyr,Tazzral,Fyrcyth,Selkcyth,Paldoryn,Fyrluth,Selkmyr,Paldonar,Tazfroth,Selkzal,Hazdar,Fyrzral,Paldzal,Hazonar
+
+P > a
+o > n,t,r,v
+H > a
+n > a,m,o,p,l,c,f,z,d
+S > e
+f > r
+k > m,o,p,l,c,f,z,d
+a > l,r,v
+F > e,y
+l > d,v,u,n,k
+d > z,a,m,o,p,l,c,f,d
+z > r,a,m,o,p,l,c,f,z,d
+p > a
+e > v
+y > r,t,n,v
+c > y
+h > m,o,p,l,c,f,z,d
+M > o
+m > y
+r > a,m,o,p,t,l,c,f,z,y,d,v,n
+T > a
+O > l
+t > h
+u > t
+K > y,r
